@@ -4,6 +4,8 @@ require 'net/http'
 require 'uri'
 require 'json'
 
+#ああああ
+
 
 ActiveRecord::Base.establish_connection(
         "adapter" => "sqlite3",
